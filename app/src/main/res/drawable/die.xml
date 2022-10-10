@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dead__1_" android:duration="75" />
+    <item android:drawable="@drawable/dead__2_" android:duration="75" />
+    <item android:drawable="@drawable/dead__3_" android:duration="75" />
+    <item android:drawable="@drawable/dead__4_" android:duration="75" />
+    <item android:drawable="@drawable/dead__5_" android:duration="75" />
+    <item android:drawable="@drawable/dead__6_" android:duration="75" />
+    <item android:drawable="@drawable/dead__7_" android:duration="75" />
+    <item android:drawable="@drawable/dead__8_" android:duration="75" />
+    <item android:drawable="@drawable/dead__9_" android:duration="75" />
+    <item android:drawable="@drawable/dead__10_" android:duration="75" />
+    <item android:drawable="@drawable/dead__11_" android:duration="75" />
+    <item android:drawable="@drawable/dead__12_" android:duration="75" />
+    <item android:drawable="@drawable/dead__12_" android:duration="75" />
+    <item android:drawable="@drawable/dead__13_" android:duration="75" />
+    <item android:drawable="@drawable/dead__14_" android:duration="75" />
+    <item android:drawable="@drawable/dead__15_" android:duration="75" />
+    <item android:drawable="@drawable/dead__16_" android:duration="75" />
+    <item android:drawable="@drawable/dead__17_" android:duration="75" />
+</animation-list>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daniweb Animate Sprites AnimationDrawable</string>
+    <string name="idle">Idle</string>
+    <string name="walk">Walk</string>
+    <string name="run">Run</string>
+    <string name="jump">Jump</string>
+    <string name="die">Die</string>
+    <string name="slide">Slide</string>
+</resources>

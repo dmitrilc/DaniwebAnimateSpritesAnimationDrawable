@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/jump__1_" android:duration="75" />
+    <item android:drawable="@drawable/jump__2_" android:duration="75" />
+    <item android:drawable="@drawable/jump__3_" android:duration="75" />
+    <item android:drawable="@drawable/jump__4_" android:duration="75" />
+    <item android:drawable="@drawable/jump__5_" android:duration="75" />
+    <item android:drawable="@drawable/jump__6_" android:duration="75" />
+    <item android:drawable="@drawable/jump__7_" android:duration="75" />
+    <item android:drawable="@drawable/jump__8_" android:duration="75" />
+    <item android:drawable="@drawable/jump__9_" android:duration="75" />
+    <item android:drawable="@drawable/jump__10_" android:duration="75" />
+    <item android:drawable="@drawable/jump__11_" android:duration="75" />
+    <item android:drawable="@drawable/jump__12_" android:duration="75" />
+    <item android:drawable="@drawable/jump__13_" android:duration="75" />
+    <item android:drawable="@drawable/jump__14_" android:duration="75" />
+    <item android:drawable="@drawable/jump__15_" android:duration="75" />
+    <item android:drawable="@drawable/jump__16_" android:duration="75" />
+</animation-list>
